@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <iostream>
 struct transitionFunction{
 	char* stateFrom;
 	char event;
